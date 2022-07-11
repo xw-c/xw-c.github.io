@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Xuwen Chen</title>
-    <link>/posts/</link>
+    <link>/posts.html</link>
     <description>Recent content in Publications on Xuwen Chen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -11,10 +11,10 @@
     <lastBuildDate>Mon, 27 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Commencement Speech at Turing Class</title>
-      <link>/posts/turing/</link>
+      <link>/posts/turing.html</link>
       <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>/posts/turing/</guid>
+      <guid>/posts/turing.html</guid>
       <description></description>
     </item>
     
