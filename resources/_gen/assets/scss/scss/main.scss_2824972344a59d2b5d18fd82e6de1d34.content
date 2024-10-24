@@ -8491,7 +8491,7 @@ ul.share li:hover i {
   padding-top: 50px; }
 
 .home-section:nth-of-type(even) {
-  background-color: rgba(216, 198, 192, 0.7); }
+  background-color: rgba(216, 198, 192, 0.3); }
 
 .dark .home-section {
   background-color: #272935; }
