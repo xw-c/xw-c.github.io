@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Baoquan Chen | Xuwen Chen</title>
+    <link>/author/baoquan-chen/</link>
+      <atom:link href="/author/baoquan-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Baoquan Chen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 24 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Baoquan Chen</title>
+      <link>/author/baoquan-chen/</link>
+    </image>
+    
+    <item>
+      <title>A Time-Dependent Inclusion-Based Method for Continuous Collision Detection between Parametric Surfaces</title>
+      <link>/publication/siga24/</link>
+      <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/siga24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulating Thin Shells by Bicubic Hermite Elements</title>
+      <link>/publication/spm2024/</link>
+      <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/spm2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation and Optimization of Magnetoelastic Thin Shells</title>
+      <link>/publication/sig22/</link>
+      <pubDate>Sat, 09 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/sig22/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
