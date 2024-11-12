@@ -6,7 +6,7 @@ authors:
 - Cheng Yu
 - Bin Wang
 - Baoquan Chen
-date: "2024-10-24"
+date: "2024-09-01"
 doi: "10.1016/j.cad.2024.103734"
 
 # Schedule page publish date (NOT publication's date).
@@ -19,13 +19,13 @@ publishDate: "Sept. 2024"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Computer-Aided Design (Proceedings of SPM 2024)*
+publication: In *Computer-Aided Design (SPM 2024 Journal Papers)*
 publication_short: In *ACM TOG*
 
 abstract: In this study, we present the bicubic Hermite element method (BHEM), a new computational framework devised for the elastodynamic simulation of thin-shell structures. The BHEM is constructed based on quadrilateral Hermite patches, which serve as a unified representation for shell geometry, simulation, collision avoidance, as well as rendering. Compared with the commonly utilized linear FEM, the BHEM offers higher-order solution spaces, enabling the capture of more intricate and smoother geometries while employing significantly fewer finite elements. In comparison to other high-order methods, the BHEM achieves conforming $C^1$ continuity for Kirchhoff–Love (KL) shells with minimal complexity. Furthermore, by leveraging the subdivision and convex hull properties of Hermite patches, we develop an efficient algorithm for ray-patch intersections, facilitating collision handling in simulations and ray tracing in rendering. This eliminates the need for laborious remodeling of the pre-existing surface as the conventional approaches do. We substantiate our claims with comprehensive experiments, which demonstrate the high accuracy and versatility of the proposed method.
 
 # Summary. An optional shortened abstract.
-summary: Computer-Aided Design (Proceedings of SPM 2024)
+summary: Computer-Aided Design (SPM 2024 Journal Papers)
 
 links:
 url_pdf: publications/spm24BHEM.pdf

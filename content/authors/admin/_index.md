@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'pku_xwchen@163.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:pku_xwchen@163.com'  # For a direct email link, use "mailto:test@example.org".
 # - icon: google-scholar
 #   icon_pack: ai
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -65,7 +65,7 @@ email: ""
 ---
 
 I am currently a third-year PhD student in <a href="https://www.cis.pku.edu.cn/">the School of Intelligence Science and Technology</a> in <a href="https://pku.edu.cn/">Peking University</a>, advised by Prof. <a href="https://baoquanchen.info/">Baoquan Chen</a>. I am also fortunate to receive guidance from Dr. <a href="https://binwangbfa.github.io/">Bin Wang</a>, Prof. <a href="https://rachelcmy.github.io/">Mengyu Chu</a> and Prof. <a href="https://faculty.cc.gatech.edu/~bozhu/">Bo Zhu</a>.
-Befor in 2022, I graduated from the AI Turing class in <a href="https://eecs.pku.edu.cn/">the School of EECS</a> in <a href="https://pku.edu.cn/">Peking University</a> and got my bachelor's degree.
+Before in 2022, I graduated from the AI Turing class in <a href="https://eecs.pku.edu.cn/">the School of EECS</a> in <a href="https://pku.edu.cn/">Peking University</a> and got my bachelor's degree.
 
 I'm interested in computer graphics, especially physically based animation. I have been working on thin-shell simulation and collision detection, aiming at providing efficient and robust simulation tools for reconstructing the world model on a virtual platform. Recently, I have gained a new interest about garment simulation combined with learning-based approaches.
 

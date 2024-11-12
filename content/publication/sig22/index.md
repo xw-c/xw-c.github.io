@@ -10,7 +10,7 @@ date: "2022-07-09"
 doi: "10.1145/3528223.3530142"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "Dec. 2022"
+publishDate: "July. 2022"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,13 +19,13 @@ publishDate: "Dec. 2022"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *ACM Transactions on Graphics (Proceedings of SIGGRAPH 2022)*
+publication: In *ACM Transactions on Graphics (SIGGRAPH 2022 Journal Papers)*
 publication_short: In *ACM TOG*
 
 abstract: Magnetoelastic thin shells exhibit great potential in realizing versatile functionalities through a broad range of combination of material stiffness, remnant magnetization intensity, and external magnetic stimuli. In this paper, we propose a novel computational method for forward simulation and inverse design of magnetoelastic thin shells. Our system consists of two key components of forward simulation and backward optimization. On the simulation side, we have developed a new continuum mechanics model based on the Kirchhoff–Love thin-shell model to characterize the behaviors of a megnetolelastic thin shell under external magnetic stimuli. Based on this model, we proposed an implicit numerical simulator facilitated by the magnetic energy Hessian to treat the elastic and magnetic stresses within a unified framework, which is versatile to incorporation with other thin shell models. On the optimization side, we have devised a new differentiable simulation framework equipped with an efficient adjoint formula to accommodate various PDE-constraint, inverse design problems of magnetoelastic thin-shell structures, in both static and dynamic settings. It also encompasses applications of magnetoelastic soft robots, functional Origami, artworks, and meta-material designs. We demonstrate the efficacy of our framework by designing and simulating a broad array of magnetoelastic thin-shell objects that manifest complicated interactions between magnetic fields, materials, and control policies.
 
 # Summary. An optional shortened abstract.
-summary: ACM Transactions on Graphics (Proceedings of SIGGRAPH 2022)
+summary: ACM Transactions on Graphics (SIGGRAPH 2022 Journal Papers)
 
 links:
 - name: Bilibili
@@ -33,8 +33,8 @@ links:
 - name: Youtube
   url: https://youtu.be/TeHcg75m9Vw
 - name: low-res PDF
-  url: publications/sig24MagThinShells.pdf
-url_pdf: publications/sig24MagThinShells.pdf
+  url: publications/sig22MagThinShells-lowres.pdf
+url_pdf: publications/sig22MagThinShells.pdf
 # url_video: '#'
 
 # # Featured image
