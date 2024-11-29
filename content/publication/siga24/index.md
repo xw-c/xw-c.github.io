@@ -37,7 +37,7 @@ summary: ACM Transactions on Graphics (SIGGRAPH Asia 2024 Journal Papers)
 #   url: ""
 url_pdf: publications/siga24TDIF.pdf
 # url_pdf: http://arxiv.org/pdf/1512.04133v1
-# url_code: ''
+url_code: 'https://github.com/xw-c/TDIB-CCD'
 # url_dataset: ''
 # url_poster: ''
 # url_project: ''
