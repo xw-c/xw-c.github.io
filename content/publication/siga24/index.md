@@ -32,9 +32,11 @@ summary: ACM Transactions on Graphics (SIGGRAPH Asia 2024 Journal Papers)
 # - Source Themes
 # featured: false
 
-# links:
-# - name: ""
-#   url: ""
+links:
+- name: "Supplementary"
+  url: "publications/siga24TDIF-supplementary.pdf"
+- name: "Video"
+  url: "publications/siga24TDIF-video.mp4"
 url_pdf: publications/siga24TDIF.pdf
 # url_pdf: http://arxiv.org/pdf/1512.04133v1
 url_code: 'https://github.com/xw-c/TDIB-CCD'
