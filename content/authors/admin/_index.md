@@ -65,8 +65,12 @@ email: ""
 ---
 
 I am currently a third-year PhD student in <a href="https://www.cis.pku.edu.cn/">the School of Intelligence Science and Technology</a> in <a href="https://pku.edu.cn/">Peking University</a>, advised by Prof. <a href="https://baoquanchen.info/">Baoquan Chen</a>. I am also fortunate to receive guidance from Dr. <a href="https://binwangbfa.github.io/">Bin Wang</a>, Prof. <a href="https://rachelcmy.github.io/">Mengyu Chu</a> and Prof. <a href="https://faculty.cc.gatech.edu/~bozhu/">Bo Zhu</a>.
-Before in 2022, I graduated from the AI Turing class in <a href="https://eecs.pku.edu.cn/">the School of EECS</a> in <a href="https://pku.edu.cn/">Peking University</a> and got my bachelor's degree.
+I received my Bachelor’s degree with honors in Science from the AI Turing Program in <a href="https://eecs.pku.edu.cn/">the School of EECS</a>, <a href="https://pku.edu.cn/">Peking University</a> in 2022.
 
-I'm interested in computer graphics, especially physically based animation. I have been working on thin-shell simulation and collision detection, aiming at providing efficient and robust simulation tools for reconstructing the world model on a virtual platform. Recently, I have gained a new interest about garment simulation combined with learning-based approaches.
+My general research interests lie in computer graphics, especially in physically based 
+animation. I am particularly interested in building accurate, robust, and efficient simulation 
+systems that support interactive and learnable environments. Toward this goal, my work 
+concentrates on thin-shell dynamics and collision detection — key components for simulating 
+digital humans and physical environments
 
 Apart from research, I'm also interested in Chinese operas and Chinese chess.
