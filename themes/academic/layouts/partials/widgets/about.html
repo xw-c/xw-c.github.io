@@ -105,5 +105,23 @@
       {{ end }}
 
     </div>
+
+    <div class="row">
+      {{ with $person.news }}
+      <div class="col-12">
+        <h3>{{ "News" | markdownify }}</h3>
+        <ul class="ul-interests fa-ul">
+          {{ range . }}
+          <li>
+            <i class="fa-li fas fa-gift"></i>
+            <div class="description">
+              {{ . | markdownify | emojify }}
+            </div>
+          </li>
+          {{ end }}
+        </ul>
+      </div>
+      {{ end }}
+    </div>
   </div>
 </div>

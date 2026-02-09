@@ -73,6 +73,22 @@ collections:
         name: "user_groups"
         required: false
         widget: "list"
+      - label: "News (shown in About widget)"
+        name: "news"
+        required: false
+        widget: "list"
+      # - label: "News (shown in About widget)"
+      #   name: "news"
+      #   required: false
+      #   widget: object
+      #   fields:
+      #     - label: "messages"
+      #       name: "messages"
+      #       required: false
+      #       widget: list
+      #       fields:
+      #         - {label: time, name: time, widget: string, required: true}
+      #         - {label: content, name: content, widget: markdown, required: true}
   - name: posts
     label: Posts
     label_singular: Post

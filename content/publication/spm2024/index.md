@@ -1,11 +1,14 @@
 ---
 title: "Simulating Thin Shells by Bicubic Hermite Elements"
 authors:
-- Xingyu Ni*
-- Xuwen Chen*
+- Xingyu Ni
+- admin
 - Cheng Yu
 - Bin Wang
 - Baoquan Chen
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 date: "2024-09-01"
 doi: "10.1016/j.cad.2024.103734"
 

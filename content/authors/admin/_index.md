@@ -34,6 +34,9 @@ education:
     institution: School of EECS, Peking University
     year: 2018 - 2022
 
+news: 
+- --- **July 2025** --- Honored to be selected as a <a href="https://www.wigraph.org/spotlights/meet-our-rising-stars-2025/">WiGraph Rising Star</a>!
+
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -64,7 +67,7 @@ email: ""
 # - Visitors
 ---
 
-I am currently a third-year PhD student in <a href="https://www.cis.pku.edu.cn/">the School of Intelligence Science and Technology</a> in <a href="https://pku.edu.cn/">Peking University</a>, advised by Prof. <a href="https://baoquanchen.info/">Baoquan Chen</a>. I am also fortunate to receive guidance from Dr. <a href="https://binwangbfa.github.io/">Bin Wang</a>, Prof. <a href="https://rachelcmy.github.io/">Mengyu Chu</a> and Prof. <a href="https://faculty.cc.gatech.edu/~bozhu/">Bo Zhu</a>.
+I am currently a fourth-year PhD student in <a href="https://www.cis.pku.edu.cn/">the School of Intelligence Science and Technology</a> in <a href="https://pku.edu.cn/">Peking University</a>, advised by Prof. <a href="https://baoquanchen.info/">Baoquan Chen</a>. I am also fortunate to receive guidance from Dr. <a href="https://binwangbfa.github.io/">Bin Wang</a>, Prof. <a href="https://rachelcmy.github.io/">Mengyu Chu</a> and Prof. <a href="https://faculty.cc.gatech.edu/~bozhu/">Bo Zhu</a>.
 I received my Bachelor’s degree with honors in Science from the AI Turing Program in <a href="https://eecs.pku.edu.cn/">the School of EECS</a>, <a href="https://pku.edu.cn/">Peking University</a> in 2022.
 
 My general research interests lie in computer graphics, especially in physically based 
