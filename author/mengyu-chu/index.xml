@@ -5,12 +5,20 @@
     <link>/author/mengyu-chu/</link>
       <atom:link href="/author/mengyu-chu/index.xml" rel="self" type="application/rss+xml" />
     <description>Mengyu Chu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 18 Oct 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>/images/icon_hu32f6927d6ea5851f57917258a2274170_3164_512x512_fill_lanczos_center_3.png</url>
       <title>Mengyu Chu</title>
       <link>/author/mengyu-chu/</link>
     </image>
+    
+    <item>
+      <title>Fast Multi-Body Coupling for Underwater Interactions</title>
+      <link>/publication/pg2025/</link>
+      <pubDate>Sat, 18 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/pg2025/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Time-Dependent Inclusion-Based Method for Continuous Collision Detection between Parametric Surfaces</title>
