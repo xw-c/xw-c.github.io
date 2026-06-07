@@ -35,6 +35,7 @@ education:
     year: 2018 - 2022
 
 news: 
+- --- **June 2026** --- Had a wonderful visit to <a href="https://ist.ac.at/">ISTA</a> --- gave a talk on thin-shell simulation and enjoyed inspiring discussions with Prof. <a href="https://samararen.github.io/">Samara Ren</a>, Prof. <a href="https://pub.ista.ac.at/~wojtan/">Chris Wojtan</a> and their groups!
 - --- **July 2025** --- Honored to be selected as a <a href="https://www.wigraph.org/spotlights/meet-our-rising-stars-2025/">WiGraph Rising Star</a>!
 
 # Social/Academic Networking

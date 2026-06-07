@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kui Wu | Xuwen Chen</title>
+    <link>/author/kui-wu/</link>
+      <atom:link href="/author/kui-wu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kui Wu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 18 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu32f6927d6ea5851f57917258a2274170_3164_512x512_fill_lanczos_center_3.png</url>
+      <title>Kui Wu</title>
+      <link>/author/kui-wu/</link>
+    </image>
+    
+    <item>
+      <title>Fast Multi-Body Coupling for Underwater Interactions</title>
+      <link>/publication/pg2025/</link>
+      <pubDate>Sat, 18 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/pg2025/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
