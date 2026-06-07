@@ -2,28 +2,57 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/publication-type/1/</loc>
-    <lastmod>2025-10-18T00:00:00+00:00</lastmod>
+    <loc>/experience/experience/</loc>
+  </url><url>
+    <loc>/publication-type/2/</loc>
+    <lastmod>2026-06-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/</loc>
-    <lastmod>2025-10-18T00:00:00+00:00</lastmod>
+    <lastmod>2026-06-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/baoquan-chen/</loc>
+    <lastmod>2026-06-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/bin-wang/</loc>
+    <lastmod>2026-06-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/cheng-yu/</loc>
+    <lastmod>2026-06-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/sig26/</loc>
+    <lastmod>2026-06-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/junyu-wang/</loc>
+    <lastmod>2026-06-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/meng-zhang/</loc>
+    <lastmod>2026-06-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/mengyu-chu/</loc>
+    <lastmod>2026-06-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2026-06-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2026-06-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/xingyu-ni/</loc>
+    <lastmod>2026-06-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2026-06-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/xuwen-chen/</loc>
+    <lastmod>2026-06-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication-type/1/</loc>
     <lastmod>2025-10-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/pg2025/</loc>
     <lastmod>2025-10-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/kui-wu/</loc>
-    <lastmod>2025-10-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/mengyu-chu/</loc>
-    <lastmod>2025-10-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication_types/</loc>
-    <lastmod>2025-10-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/</loc>
     <lastmod>2025-10-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/tianhong-gao/</loc>
@@ -35,12 +64,6 @@
     <loc>/author/xingqiao-li/</loc>
     <lastmod>2025-10-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2025-10-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/xuwen-chen/</loc>
-    <lastmod>2025-10-18T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/author/zherong-pan/</loc>
     <lastmod>2025-10-18T00:00:00+00:00</lastmod>
   </url><url>
@@ -50,19 +73,7 @@
     <loc>/post/</loc>
     <lastmod>2025-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication-type/2/</loc>
-    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/publication/siga24/</loc>
-    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/bin-wang/</loc>
-    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/cheng-yu/</loc>
-    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/xingyu-ni/</loc>
     <lastmod>2024-11-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/spm2024/</loc>
@@ -81,6 +92,8 @@
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url><url>
     <loc>/categories/</loc>
+  </url><url>
+    <loc>/experience/</loc>
   </url><url>
     <loc>/tags/</loc>
   </url>

@@ -5,12 +5,20 @@
     <link>/author/baoquan-chen/</link>
       <atom:link href="/author/baoquan-chen/index.xml" rel="self" type="application/rss+xml" />
     <description>Baoquan Chen</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 18 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 06 Jun 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu32f6927d6ea5851f57917258a2274170_3164_512x512_fill_lanczos_center_3.png</url>
       <title>Baoquan Chen</title>
       <link>/author/baoquan-chen/</link>
     </image>
+    
+    <item>
+      <title>Floating-Point Robustness in Parametric Surface Continuous Collision Detection: From Algorithm to Benchmarking</title>
+      <link>/publication/sig26/</link>
+      <pubDate>Sat, 06 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/sig26/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Fast Multi-Body Coupling for Underwater Interactions</title>
